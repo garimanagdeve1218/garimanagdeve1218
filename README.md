@@ -28,11 +28,17 @@ I'm Garima, a fourth-year student and an aspiring software developer who loves t
 
 ## 🔭 Projects
 
-| Project Name | Description |
-| ------------ | ----------- |
-| [**LinkUs: A Real-time Chat Application**](https://github.com/yourusername/linkus) | Designed UX/UI and developed key features for a real-time chat platform. |
-| [**E-commerce Web App**](https://github.com/yourusername/ecommerce-app) | Full-stack web app with user authentication, product management, and cart features. |
-| [**Portfolio Website**](https://github.com/yourusername/portfolio-website) | A personal portfolio website to showcase my projects and experience. |
+### 🛠️ **LinkUs: A Real-time Chat Application**
+[![LinkUs](https://img.shields.io/badge/LinkUs-Real_time_Chat-blue)](https://github.com/yourusername/linkus)
+Designed UX/UI and developed key features for a real-time chat platform.
+
+### 🛠️ **E-commerce Web App**
+[![E-commerce App](https://img.shields.io/badge/E_commerce_Web_App-Online_Shop-yellow)](https://github.com/yourusername/ecommerce-app)
+Full-stack web app with user authentication, product management, and cart features.
+
+### 🛠️ **Portfolio Website**
+[![Portfolio Website](https://img.shields.io/badge/Portfolio_Website-Showcase-green)](https://github.com/yourusername/portfolio-website)
+A personal portfolio website to showcase my projects and experience.
 
 ---
 
