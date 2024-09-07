@@ -1,5 +1,5 @@
 
-## <div style="color: #00FFFF;"><i>Hi there! 🙋‍♀️ I'm Garima Nagdeve!</div>
+## <i>Hi there! 🙋‍♀️ I'm Garima Nagdeve!
 
 ![image](https://github.com/user-attachments/assets/1e56210d-3824-4355-81b5-3c6d77ae5b41)
 
@@ -11,7 +11,7 @@ I'm **currently seeking new opportunities** to expand my skills and contribute t
 
 ---
 
-## <div style="color: #00BFFF;">🛠️ Technologies & Tools</div>
+## 🛠️ Technologies & Tools
 
 <div>
   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C">
@@ -30,7 +30,7 @@ I'm **currently seeking new opportunities** to expand my skills and contribute t
 
 ---
 
-## <div style="color: #00BFFF;">🌱 Skills in Progress</div>
+## 🌱 Skills in Progress
 
 <div>
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React">
@@ -40,7 +40,7 @@ I'm **currently seeking new opportunities** to expand my skills and contribute t
 
 ---
 
-## <div style="color: #39FF14;">🔭 Projects</div>
+## 🔭 Projects
 
 | Project Name | Description |
 | ------------ | ----------- |
@@ -54,7 +54,7 @@ I'm **currently seeking new opportunities** to expand my skills and contribute t
 
 ---
 
-## <div style="color: #FF6F00;">📜 Certifications</div>
+## 📜 Certifications
 
 - **NPTEL**-DBMS Certification (Elite Rank).
 - **NPTEL**-Computer Networks Certification (Elite Rank).
@@ -64,28 +64,21 @@ I'm **currently seeking new opportunities** to expand my skills and contribute t
 
 ---
 
-## <div style="color: #8A2BE2;">🏆 Achievements</div>
+## 🏆 Achievements
 
-### <div style="color: #FF69B4;>👑 Creative Lead</div>
+### 👑 Creative Lead
 
-- **Creative Lead** at [AITR-ACM](https://aitr.acm.org/) (Oct 2023 - Present) 
-  - Leading creative direction and design for various projects and events.
-  
+- **Creative Lead** at [AITR-ACM](https://aitr.acm.org/) (Oct 2023 - Present)   
 - **Creative Lead** for the national-level hackathon **PRAYATNA** organized by AITR-ACM Club 
-  - Oversaw the creative team and contributed to event branding and design.
 
-### <div style="color: #FF69B4;>🖌️ Graphic Designer</div>
+### 🖌️ Graphic Designer
 
 - **Graphic Designer** at [AITR-ACM](https://aitr.acm.org/) (Oct 2022 - Aug 2023) 
-  - Designed graphics for club events and materials.
-
-- **Graphic Designer** for the national-level hackathon **CODESPIRE** organized by AITR-ACM Club 
-  - Created promotional graphics and materials for the hackathon.
-
+- **Graphic Designer** for the national-level hackathon **CODESPIRE** organized by AITR-ACM Club
 
 ---
 
-## <div style="color: #FF4500;">💪 Strengths</div>
+## 💪 Strengths
 
 <div>
   <img src="https://img.shields.io/badge/Team_Player-000000?style=for-the-badge&logoColor=white" alt="Team Player">
@@ -97,7 +90,7 @@ I'm **currently seeking new opportunities** to expand my skills and contribute t
 
 ---
  
-## <div style="color: #32CD32;">📫 How to Reach Me</div>
+## 📫 How to Reach Me
 
 - [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourusername)
 - [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:youremail@example.com)
@@ -106,13 +99,13 @@ I'm **currently seeking new opportunities** to expand my skills and contribute t
 
 ---
 
-## <div style="color: #40E0D0;">⚡ Fun Fact</div>
+## ⚡ Fun Fact
 
 - I'm also passionate about **dancing** and **arts & crafts** when I'm not coding!
 
 ---
 
-## <div style="color: #FF5722;">📊 GitHub Stats</div>
+## 📊 GitHub Stats
 
 <div >
   <img src="https://github-readme-stats.vercel.app/api?username=garimanagdeve1218&show_icons=true&theme=radical" alt="GitHub Stats"><br><br>
