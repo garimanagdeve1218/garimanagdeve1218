@@ -1,9 +1,5 @@
-## Hi there 👋
 
-<!--
-**garimanagdeve1218/garimanagdeve1218** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-# Hi there! 👋 I'm [Your Name]
+## Hi there! 👋 I'm [Your Name]
 
 ![Your Banner Image](https://your-banner-url.com)
 
