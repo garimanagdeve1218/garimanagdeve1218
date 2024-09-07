@@ -1,16 +1,17 @@
 
-## Hi there! 👋 I'm Garima Nagdeve!
+## Hi there! 🙋‍♀️ I'm Garima Nagdeve!
 
 ![image](https://github.com/user-attachments/assets/1e56210d-3824-4355-81b5-3c6d77ae5b41)
 
 
-I'm Garima, a fourth-year student and an aspiring software developer who loves turning ideas into reality through code. My goal is to build innovative solutions that solve real-world problems while constantly learning and growing in the process. I'm currently seeking new opportunities to expand my skills and contribute to exciting projects. Check out my work below, and feel free to connect — I’m always up for a fun tech chat!
+I'm Garima, a fourth-year student and an aspiring software developer who loves turning ideas into reality through code. My goal is to build innovative solutions that solve real-world problems while constantly learning and growing in the process. 
+I'm currently seeking new opportunities to expand my skills and contribute to exciting projects. Check out my work below, and feel free to connect — I’m always up for a fun tech chat!🤝
 
 
 
 ---
 
-## <div align="center">🛠️ Technologies & Tools</div>
+## 🛠️ Technologies & Tools</div>
 
 <div align="center">
   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C">
@@ -29,7 +30,7 @@ I'm Garima, a fourth-year student and an aspiring software developer who loves t
 
 ---
 
-## <div align="center">🌱 Skills in Progress</div>
+## 🌱 Skills in Progress</div>
 
 <div align="center">
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React">
@@ -64,17 +65,17 @@ I'm Garima, a fourth-year student and an aspiring software developer who loves t
 
 ## 🏆 Achievements
 
-### 🎨 Creative Lead
+### 👑 Creative Lead
 
-- **Creative Lead** at ([https://example.com](https://aitr.acm.org/) (Oct 2023 - Present) 🎨
+- **Creative Lead** at ([AITR-ACM](https://aitr.acm.org/) (Oct 2023 - Present) 🎨
   - Leading creative direction and design for various projects and events.
   
 - **Creative Lead** for the national-level hackathon **PRAYATNA** organized by AITR-ACM Club 🏅
   - Oversaw the creative team and contributed to event branding and design.
 
-### 🎨 Graphic Designer
+### 🖌️ Graphic Designer
 
-- **Graphic Designer** at ([https://example.com](https://aitr.acm.org/) (Oct 2022 - Aug 2023) 🎨
+- **Graphic Designer** at ([AITR-ACM](https://aitr.acm.org/) (Oct 2022 - Aug 2023) 🎨
   - Designed graphics for club events and materials.
 
 - **Graphic Designer** for the national-level hackathon **CODESPIRE** organized by AITR-ACM Club 🏅
@@ -83,7 +84,7 @@ I'm Garima, a fourth-year student and an aspiring software developer who loves t
 
 ---
 
-## <div align="center">💪 Strengths</div>
+## 💪 Strengths</div>
 
 <div align="center">
   <img src="https://img.shields.io/badge/Team_Player-000000?style=for-the-badge&logoColor=white" alt="Team Player">
@@ -97,8 +98,10 @@ I'm Garima, a fourth-year student and an aspiring software developer who loves t
 
 ## 📫 How to Reach Me
 
-- LinkedIn: [linkedin.com/in/yourusername](https://linkedin.com/in/yourusername)
-- Email: [youremail@example.com](mailto:youremail@example.com)
+- **LinkedIn**: [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourusername)
+- **Email**: [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:youremail@example.com)
+- **Instagram**: [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/yourusername)
+
 
 ---
 
@@ -108,5 +111,13 @@ I'm Garima, a fourth-year student and an aspiring software developer who loves t
 
 ---
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=garimanagdeve/1218&show_icons=true&theme=radical)
+
+## 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical" alt="GitHub Stats">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical" alt="Top Languages">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=radical" alt="GitHub Streak">
+  <img src="https://activity-graph.herokuapp.com/graph?username=yourusername&theme=radical" alt="Activity Graph">
+</div>
