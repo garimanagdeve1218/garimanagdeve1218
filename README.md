@@ -35,6 +35,7 @@ I'm **currently seeking new opportunities** to expand my skills and contribute t
 <div>
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React">
   <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" alt="Java">
+  <img src="https://img.shields.io/badge/AI%2FML-FF5722?style=for-the-badge&logo=google&logoColor=white" alt="AI/ML">
 </div>
 
 ---
@@ -65,7 +66,7 @@ I'm **currently seeking new opportunities** to expand my skills and contribute t
 
 ## 🏆 Achievements
 
-# 👑 Creative Lead
+### 👑 Creative Lead
 
 - **Creative Lead** at [AITR-ACM](https://aitr.acm.org/) (Oct 2023 - Present) 
   - Leading creative direction and design for various projects and events.
@@ -111,13 +112,10 @@ I'm **currently seeking new opportunities** to expand my skills and contribute t
 
 ---
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=garimanagdeve1218&show_icons=true&theme=radical)
-
 ## 📊 GitHub Stats
 
 <div>
-  <img src="https://github-readme-stats.vercel.app/api?username=garimanagdeve1218&show_icons=true&theme=radical" alt="GitHub Stats">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=garimanagdeve1218&layout=compact&theme=radical" alt="Top Languages">
+  <img src="https://github-readme-stats.vercel.app/api?username=garimanagdeve1218&show_icons=true&theme=radical" alt="GitHub Stats"><br><br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=garimanagdeve1218&layout=compact&theme=radical" alt="Top Languages"><br><br>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=garimanagdeve1218&theme=radical" alt="GitHub Streak">
-  <img src="https://activity-graph.herokuapp.com/graph?username=garimanagdeve1218&theme=radical" alt="Activity Graph">
 </div>
