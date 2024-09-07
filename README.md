@@ -1,5 +1,5 @@
 
-## Hi there! 🙋‍♀️ I'm Garima Nagdeve!
+## <i>Hi there! 🙋‍♀️ I'm Garima Nagdeve!</i>
 
 ![image](https://github.com/user-attachments/assets/1e56210d-3824-4355-81b5-3c6d77ae5b41)
 
@@ -55,9 +55,9 @@ I'm **currently seeking new opportunities** to expand my skills and contribute t
 
 ## 📜 Certifications
 
-- **NPTEL-DBMS Certification** (Elite Rank).
-- **NPTEL-Computer Networks Certification** (Elite Rank).
-- **Alibaba Cloud Certification**.
+- **NPTEL**-DBMS Certification (Elite Rank).
+- **NPTEL**-Computer Networks Certification (Elite Rank).
+- **Alibaba Cloud** Certification.
 - **AWS Academy Graduate** - Course Completion.
 - **CISCO Networking Academy** - Course Completion.
 
@@ -65,20 +65,20 @@ I'm **currently seeking new opportunities** to expand my skills and contribute t
 
 ## 🏆 Achievements
 
-### 👑 Creative Lead
+# 👑 Creative Lead
 
-- **Creative Lead** at ([AITR-ACM](https://aitr.acm.org/) (Oct 2023 - Present) 🎨
+- **Creative Lead** at [AITR-ACM](https://aitr.acm.org/) (Oct 2023 - Present) 
   - Leading creative direction and design for various projects and events.
   
-- **Creative Lead** for the national-level hackathon **PRAYATNA** organized by AITR-ACM Club 🏅
+- **Creative Lead** for the national-level hackathon **PRAYATNA** organized by AITR-ACM Club 
   - Oversaw the creative team and contributed to event branding and design.
 
 ### 🖌️ Graphic Designer
 
-- **Graphic Designer** at ([AITR-ACM](https://aitr.acm.org/) (Oct 2022 - Aug 2023) 🎨
+- **Graphic Designer** at [AITR-ACM](https://aitr.acm.org/) (Oct 2022 - Aug 2023) 
   - Designed graphics for club events and materials.
 
-- **Graphic Designer** for the national-level hackathon **CODESPIRE** organized by AITR-ACM Club 🏅
+- **Graphic Designer** for the national-level hackathon **CODESPIRE** organized by AITR-ACM Club 
   - Created promotional graphics and materials for the hackathon.
 
 
@@ -86,7 +86,7 @@ I'm **currently seeking new opportunities** to expand my skills and contribute t
 
 ## 💪 Strengths</div>
 
-<div align="center">
+<div>
   <img src="https://img.shields.io/badge/Team_Player-000000?style=for-the-badge&logoColor=white" alt="Team Player">
   <img src="https://img.shields.io/badge/Punctuality-000000?style=for-the-badge&logoColor=white" alt="Punctuality">
   <img src="https://img.shields.io/badge/Communication-000000?style=for-the-badge&logoColor=white" alt="Communication">
@@ -116,8 +116,8 @@ I'm **currently seeking new opportunities** to expand my skills and contribute t
 ## 📊 GitHub Stats
 
 <div>
-  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical" alt="GitHub Stats">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical" alt="Top Languages">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=radical" alt="GitHub Streak">
-  <img src="https://activity-graph.herokuapp.com/graph?username=yourusername&theme=radical" alt="Activity Graph">
+  <img src="https://github-readme-stats.vercel.app/api?username=garimanagdeve1218&show_icons=true&theme=radical" alt="GitHub Stats">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=garimanagdeve1218&layout=compact&theme=radical" alt="Top Languages">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=garimanagdeve1218&theme=radical" alt="GitHub Streak">
+  <img src="https://activity-graph.herokuapp.com/graph?username=garimanagdeve1218&theme=radical" alt="Activity Graph">
 </div>
