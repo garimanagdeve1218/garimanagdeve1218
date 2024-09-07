@@ -4,8 +4,8 @@
 ![image](https://github.com/user-attachments/assets/1e56210d-3824-4355-81b5-3c6d77ae5b41)
 
 
-I'm Garima, a fourth-year student and an aspiring software developer who loves turning ideas into reality through code. My goal is to build innovative solutions that solve real-world problems while constantly learning and growing in the process. 
-I'm currently seeking new opportunities to expand my skills and contribute to exciting projects. Check out my work below, and feel free to connect — I’m always up for a fun tech chat!🤝
+I'm **Garima**, a fourth-year student and an **aspiring software developer** who loves turning ideas into reality through code. My goal is to build innovative solutions that solve real-world problems while constantly learning and growing in the process. <br>
+I'm **currently seeking new opportunities** to expand my skills and contribute to exciting projects. Check out my work below, and feel free to connect — I’m always up for a fun tech chat!🤝
 
 
 
@@ -13,7 +13,7 @@ I'm currently seeking new opportunities to expand my skills and contribute to ex
 
 ## 🛠️ Technologies & Tools</div>
 
-<div align="center">
+<div>
   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C">
   <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
@@ -32,7 +32,7 @@ I'm currently seeking new opportunities to expand my skills and contribute to ex
 
 ## 🌱 Skills in Progress</div>
 
-<div align="center">
+<div>
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React">
   <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" alt="Java">
 </div>
@@ -98,9 +98,9 @@ I'm currently seeking new opportunities to expand my skills and contribute to ex
 
 ## 📫 How to Reach Me
 
-- **LinkedIn**: [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourusername)
-- **Email**: [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:youremail@example.com)
-- **Instagram**: [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/yourusername)
+- [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourusername)
+- [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:youremail@example.com)
+- [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/yourusername)
 
 
 ---
@@ -111,11 +111,11 @@ I'm currently seeking new opportunities to expand my skills and contribute to ex
 
 ---
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=garimanagdeve/1218&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=garimanagdeve1218&show_icons=true&theme=radical)
 
 ## 📊 GitHub Stats
 
-<div align="center">
+<div>
   <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical" alt="GitHub Stats">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical" alt="Top Languages">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=radical" alt="GitHub Streak">
