@@ -1,5 +1,5 @@
 
-## <div style="color: #00FFFF;><i>Hi there! 🙋‍♀️ I'm Garima Nagdeve!</i></div>
+## <div style="color: #00FFFF;"><i>Hi there! 🙋‍♀️ I'm Garima Nagdeve!</div>
 
 ![image](https://github.com/user-attachments/assets/1e56210d-3824-4355-81b5-3c6d77ae5b41)
 
