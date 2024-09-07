@@ -3,7 +3,10 @@
 
 ![image](https://github.com/user-attachments/assets/1e56210d-3824-4355-81b5-3c6d77ae5b41)
 
-Welcome to my GitHub! I'm a passionate **Software Developer** and **Tech Enthusiast** who loves solving problems through code and building projects that make an impact.
+
+I'm Garima, a fourth-year student and an aspiring software developer who loves turning ideas into reality through code. My goal is to build innovative solutions that solve real-world problems while constantly learning and growing in the process. I'm currently seeking new opportunities to expand my skills and contribute to exciting projects. Check out my work below, and feel free to connect — I’m always up for a fun tech chat!
+
+
 
 ---
 
