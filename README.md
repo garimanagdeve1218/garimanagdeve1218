@@ -1,7 +1,7 @@
 
 ## Hi there! 👋 I'm Garima Nagdeve!
 
-![Your Banner Image]([https://your-banner-url.com](https://camo.githubusercontent.com/c9dd8184acce8b199a8d717cdb2c10dd89e850128b86279978b95451e18c6da7/68747470733a2f2f7172616e676572732e636f6d2f77702d636f6e74656e742f75706c6f6164732f323032312f30392f42616e6e65722d496e74726f64756374696f6e2d746f2d33442d416e696d6174696f6e2e706e67))
+![image](https://github.com/user-attachments/assets/1e56210d-3824-4355-81b5-3c6d77ae5b41)
 
 Welcome to my GitHub! I'm a passionate **Software Developer** and **Tech Enthusiast** who loves solving problems through code and building projects that make an impact.
 
