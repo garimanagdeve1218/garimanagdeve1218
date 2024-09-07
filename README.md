@@ -1,7 +1,7 @@
 
 ## <i>Hi there! 🙋‍♀️ I'm Garima Nagdeve!
 
-![image](https://github.com/user-attachments/assets/1e56210d-3824-4355-81b5-3c6d77ae5b41)
+![image](https://github.com/garimanagdeve1218/garimanagdeve1218/blob/main/Hi%20there!.png)
 
 
 I'm **Garima**, a fourth-year student and an **aspiring software developer** who loves turning ideas into reality through code. My goal is to build innovative solutions that solve real-world problems while constantly learning and growing in the process. <br>
