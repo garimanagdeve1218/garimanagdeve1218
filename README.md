@@ -58,7 +58,7 @@ I'm **currently seeking new opportunities** to expand my skills and contribute t
 
 - **NPTEL**-DBMS Certification (Elite Rank).
 - **NPTEL**-Computer Networks Certification (Elite Rank).
-- **Alibaba Cloud** Certification.
+- **Alibaba Cloud** - Certification.
 - **AWS Academy Graduate** - Course Completion.
 - **CISCO Networking Academy** - Course Completion.
 
@@ -92,9 +92,9 @@ I'm **currently seeking new opportunities** to expand my skills and contribute t
  
 ## 📫 How to Reach Me
 
-- [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourusername)
-- [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:youremail@example.com)
-- [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/yourusername)
+- [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/garima1218)
+- [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:garimanagdeve1218@gmail.com)
+- [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/garima_nagdeve)
 
 
 ---
