@@ -1,5 +1,5 @@
 
-## <i>Hi there! 🙋‍♀️ I'm Garima Nagdeve!
+## Thankyou for being here!
 
 ![Hi There](https://github.com/garimanagdeve1218/garimanagdeve1218/blob/main/HI.png)
 
