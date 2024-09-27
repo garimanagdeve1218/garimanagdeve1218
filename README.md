@@ -47,8 +47,8 @@ I'm **currently seeking new opportunities** to expand my skills and contribute t
 | [**LinkUs: A Real-time Chat Application**](https://github.com/yourusername/linkus) | Designed UX/UI and developed key features for a real-time chat platform. |
 | [**MentorMatch: An E-learning platform**](https://github.com/garimanagdeve1218/MentorMatch-minor-2) | Full-stack web app with user authentication, product management, and cart features. |
 | [**Portfolio Website**](https://github.com/yourusername/portfolio-website) | A personal portfolio website to showcase my projects and experience. |
-| [**Cam-Scanner ML Project**](https://github.com/garimanagdeve1218/Cam-Scanner-ML-Project) | A personal portfolio website to showcase my projects and experience. |
-| [**To-Do-List**](https://github.com/garimanagdeve1218/To-Do-List) | A personal portfolio website to showcase my projects and experience. |
+| [**Cam-Scanner ML Project**](https://github.com/garimanagdeve1218/Cam-Scanner-ML-Project) | Building a Cam Scanner with OpenCV involves processing images to create clear, scanned documents. |
+| [**To-Do-List**](https://github.com/garimanagdeve1218/To-Do-List) |Creating a To-Do List with HTML, CSS, and JavaScript enables you to build a simple app for adding, displaying, and removing tasks. |
 | [**Random Joke Generator**](https://github.com/garimanagdeve1218/RANDOM_JOKE_GENERATOR) | A personal portfolio website to showcase my projects and experience. |
 | [**NETFLIX Homepage**](https://github.com/garimanagdeve1218/NETFLIX-CLONE) | A personal portfolio website to showcase my projects and experience. |
 
