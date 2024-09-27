@@ -44,9 +44,9 @@ I'm **currently seeking new opportunities** to expand my skills and contribute t
 
 | Project Name | Description |
 | ------------ | ----------- |
-| [**LinkUs: A Real-time Chat Application**](https://github.com/yourusername/linkus) | LinkUs is a real-time chat application built with the MERN stack and Socket.IO for instant messaging, featuring user authentication and a user-friendly interface for enhanced connectivity. |
+| [**LinkUs: A Chat Application**](https://github.com/yourusername/linkus) | LinkUs is a real-time chat application built with the MERN stack and Socket.IO for instant messaging, featuring user authentication and a user-friendly interface for enhanced connectivity. |
 | [**MentorMatch: An E-learning platform**](https://github.com/garimanagdeve1218/MentorMatch-minor-2) | MentorMatch is a platform built using the MERN stack, it connects mentees with mentors, fostering professional growth through personalized guidance and enhancing learning and career advancement. |
-| [**Portfolio Website**](https://github.com/yourusername/portfolio-website) | A personal portfolio website to showcase more about me, my skills, my projects and experience. |
+| [**Portfolio Website**](https://github.com/yourusername/portfolio-website) | A personal portfolio website, made using React.js, showcases my background, skills, projects, and experience, offering a seamless user experience that highlights my accomplishments and growth in the tech field. |
 | [**Cam-Scanner ML Project**](https://github.com/garimanagdeve1218/Cam-Scanner-ML-Project) | Built a Cam Scanner with OpenCV. A Machine Learning project, involves processing images to create clear, scanned documents. |
 | [**To-Do-List**](https://github.com/garimanagdeve1218/To-Do-List) |A To-Do List with HTML, CSS, and JavaScript enables you to manage your to-do tasks easily by adding, displaying, and removing tasks. |
 | [**Random Joke Generator**](https://github.com/garimanagdeve1218/RANDOM_JOKE_GENERATOR) | Random Joke Generator, created with HTML, CSS, and JavaScript, delivers quick laughs with a click, generating a new random joke each time you click. |
