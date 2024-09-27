@@ -44,10 +44,10 @@ I'm **currently seeking new opportunities** to expand my skills and contribute t
 
 | Project Name | Description |
 | ------------ | ----------- |
-| [**LinkUs: A Real-time Chat Application**](https://github.com/yourusername/linkus) | LinkUs: Designed UX/UI and developed key features for a real-time chat platform. |
-| [**MentorMatch: An E-learning platform**](https://github.com/garimanagdeve1218/MentorMatch-minor-2) | Full-stack web app with user authentication, product management, and cart features. |
+| [**LinkUs: A Real-time Chat Application**](https://github.com/yourusername/linkus) | LinkUs is a real-time chat application built with the MERN stack and Socket.IO for instant messaging, featuring user authentication and a user-friendly interface for enhanced connectivity. |
+| [**MentorMatch: An E-learning platform**](https://github.com/garimanagdeve1218/MentorMatch-minor-2) | MentorMatch is a platform built using the MERN stack, it connects mentees with mentors, fostering professional growth through personalized guidance and enhancing learning and career advancement. |
 | [**Portfolio Website**](https://github.com/yourusername/portfolio-website) | A personal portfolio website to showcase more about me, my skills, my projects and experience. |
-| [**Cam-Scanner ML Project**](https://github.com/garimanagdeve1218/Cam-Scanner-ML-Project) | Building a Cam Scanner with OpenCV, involves processing images to create clear, scanned documents. |
+| [**Cam-Scanner ML Project**](https://github.com/garimanagdeve1218/Cam-Scanner-ML-Project) | Built a Cam Scanner with OpenCV. A Machine Learning project, involves processing images to create clear, scanned documents. |
 | [**To-Do-List**](https://github.com/garimanagdeve1218/To-Do-List) |A To-Do List with HTML, CSS, and JavaScript enables you to manage your to-do tasks easily by adding, displaying, and removing tasks. |
 | [**Random Joke Generator**](https://github.com/garimanagdeve1218/RANDOM_JOKE_GENERATOR) | Random Joke Generator, created with HTML, CSS, and JavaScript, delivers quick laughs with a click, generating a new random joke each time you click. |
 | [**NETFLIX Homepage**](https://github.com/garimanagdeve1218/NETFLIX-CLONE) | Netflix Homepage Clone created with HTML, CSS, and JavaScript replicates the design and layout for a seamless user experience. |
@@ -73,7 +73,7 @@ I'm **currently seeking new opportunities** to expand my skills and contribute t
 
 ### 🖌️ Graphic Designer
 
-- **Graphic Designer** at [AITR-ACM](https://aitr.acm.org/) (Oct 2022 - Aug 2023) 
+- **Graphic Designer** at [AITR-ACM](https://aitr.acm.org/) (Oct 2022 - Sep 2023) 
 - **Graphic Designer** for the national-level hackathon **CODESPIRE** organized by AITR-ACM Club
 
 ---
