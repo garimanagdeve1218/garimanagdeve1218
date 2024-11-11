@@ -82,7 +82,7 @@ Tasks assigned with me include:
 
 ### 👑 Creative Lead
 
-- **Creative Lead** at [AITR-ACM](https://aitr.acm.org/) (Oct 2023 - Present)   
+- **Creative Lead** at [AITR-ACM](https://aitr.acm.org/) (Oct 2023 - Oct 2024)   
 - **Creative Lead** for the national-level hackathon **PRAYATNA** organized by AITR-ACM Club 
 
 ### 🖌️ Graphic Designer
