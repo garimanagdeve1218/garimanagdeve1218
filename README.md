@@ -57,7 +57,9 @@ I'm **currently seeking new opportunities** to expand my skills and contribute t
 ## 💼 Internship Experience
 
 ### **Research Intern at RRCAT, Indore**  
-**September 2023 - February 2024**
+**September 2024 - February 2025**
+
+The Raja Ramanna Centre for Advanced Technology (RRCAT), a government research institution under India’s Department of Atomic Energy (DAE), is located in Indore and focuses on advancing laser and accelerator technologies. Founded in 1984 and named after Dr. Raja Ramanna, a prominent Indian nuclear physicist, RRCAT specializes in cutting-edge R&D in areas like particle accelerators, photonics, and cryogenics. Its innovations contribute to various applications in scientific, industrial, and national projects, impacting fields such as nuclear research, healthcare, and defense, making it a key player in India’s scientific and technological growth.
 
 - Developing a **software solution for data analysis** of the INDUS-2 BEEM Diagnostic Devices.
 - Working on creating a **GUI using Python** to display machine data, perform data analysis, and detect anomalies.
