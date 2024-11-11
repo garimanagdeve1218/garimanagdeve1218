@@ -54,6 +54,17 @@ I'm **currently seeking new opportunities** to expand my skills and contribute t
 
 ---
 
+## 💼 Internship Experience
+
+### **Research Intern at RRCAT, Indore**  
+**September 2023 - February 2024**
+
+- Developing a **software solution for data analysis** of the INDUS-2 BEEM Diagnostic Devices.
+- Working on creating a **GUI using Python** to display machine data, perform data analysis, and detect anomalies.
+- Developing an **AI model for data mapping** and analysis based on magnet settings to gain insights from large datasets.
+
+---
+
 ## 📜 Certifications
 
 - **NPTEL** - DBMS Certification (Elite Rank).
