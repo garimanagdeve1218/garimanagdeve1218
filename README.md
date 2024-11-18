@@ -50,7 +50,7 @@ I'm **currently seeking new opportunities** to expand my skills and contribute t
 | [**Cam-Scanner ML Project**](https://github.com/garimanagdeve1218/Cam-Scanner-ML-Project) | Built a Cam Scanner with OpenCV. A Machine Learning project, involves processing images to create clear, scanned documents. |
 | [**To-Do-List**](https://github.com/garimanagdeve1218/To-Do-List) |A To-Do List with HTML, CSS, and JavaScript enables you to manage your to-do tasks easily by adding, displaying, and removing tasks. |
 | [**Random Joke Generator**](https://github.com/garimanagdeve1218/RANDOM_JOKE_GENERATOR) | Random Joke Generator, created with HTML, CSS, and JavaScript, delivers quick laughs with a click, generating a new random joke each time you click. |
-| [**Tic Tac Toe**](https://github.com/garimanagdeve1218/RANDOM_JOKE_GENERATOR) | Tic-Tac-Toe Game, created with HTML, CSS, and JavaScript, brings the classic game to life with a sleek interface and responsive design. Challenge a friend and enjoy endless rounds of strategic fun!|
+| [**Tic Tac Toe**](https://github.com/garimanagdeve1218/Tic-Tac-Toe-Game) | Tic-Tac-Toe Game, created with HTML, CSS, and JavaScript, brings the classic game to life with a sleek interface and responsive design. Challenge a friend and enjoy endless rounds of strategic fun!|
 | [**NETFLIX Homepage**](https://github.com/garimanagdeve1218/NETFLIX-CLONE) | Netflix Homepage Clone created with HTML, CSS, and JavaScript replicates the design and layout for a seamless user experience. |
 
 ---
